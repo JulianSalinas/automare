@@ -1,0 +1,11 @@
+INPUT_OPERATORS
+* : KLEENE
+? : CAN_BE 
++ : ONE_OR_PLUS
+| : OR
+. : CONCAT
+( : LEFT
+) : RIGHT
+# : FINAL
+ ;,.-abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQTRSTUVWXYZ
+
